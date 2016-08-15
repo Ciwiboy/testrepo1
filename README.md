@@ -1,2 +1,2 @@
 # testrepo1
-Thois is for my training in Git
+This is for my training in Git
